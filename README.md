@@ -1,9 +1,8 @@
 ## Hi there 👋
 Busy on contributing for Otelier ❤️, all are Private Repos. 
 
-<br/>
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madushika-deshappriya/)
 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madushika-deshappriya/)
 
 <!--
 **SankalaniGIT/SankalaniGIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
